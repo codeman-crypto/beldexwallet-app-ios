@@ -1,1 +1,4 @@
 
+[submodule "Modules/MyMoneroCore/sub_modules/mymonero-libapp-cpp"]
+	path = Modules/MyMoneroCore/sub_modules/mymonero-libapp-cpp
+	url = https://github.com/sanada08/beldex-libapp-cpp
